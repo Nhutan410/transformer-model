@@ -29,3 +29,4 @@ This repository contains a PyTorch implementation of the Transformer model, incl
 Below is a visualization of the Transformer architecture for reference:
 
 ![Transformer Architecture](image/transformer.png)
+
